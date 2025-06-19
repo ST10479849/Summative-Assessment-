@@ -18,7 +18,9 @@ my second screen user interface i made it purple i wanted it to go with the purp
 
 this is the code for my second screen here we can see the declaratons of private lateint and variables, we have the code for the list to be displayed and our two buttons a button that goes back to the main screen and a button that calculates the average, here my second screen will be showing the list of the songs and the average.
 
+https://github.com/ST10479849/Summative-Assessment-/blob/main/README.md
 
+this is the github link 
 
 
 
